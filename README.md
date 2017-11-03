@@ -81,4 +81,4 @@ git stash
 ```
 This discards all your local changes that have *not* been ```add```ed or ```commit```ted. 
 
-<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" width="100px" />
+<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" />
