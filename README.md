@@ -50,7 +50,7 @@ Only ```commit```ting makes files be under version control on your local machine
 Pushing ```commit```s, and therefore files, makes your changes enter into the version control system on the server as well as your local machine, so on GitHub (or Overleaf, or GitLab, or whatever server you are using).
 So pushing is the superior form of backup and version control because it means that there are at least two copies of your work *and* its history: one local copy (the stuff you were just working on) and one server-side copy (what you just ```push```ed).
 Once everything you need is added and committed, it is time to ```push```.
-Many ```add```s may be in one ```commit```, many ```commit```s may in one ```push```.
+Many ```add```s may be in one ```commit```, many ```commit```s may be in one ```push```.
 But there is no reason to limit yourself to pushing once a day.
 Push as often as possible pretty much, is my advice.
 Unsurprisingly, as you might guess, to ```push``` you type:
