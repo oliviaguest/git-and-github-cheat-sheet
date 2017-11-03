@@ -1,5 +1,5 @@
 # Git (and GitHub) Cheat Sheet
-<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" width="300px" />
+<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" width="300px" style="float:right" />
 
 ## Create a New Repo
 To create a new repository on GitHub go to: https://github.com/new
