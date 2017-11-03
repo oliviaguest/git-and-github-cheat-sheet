@@ -1,4 +1,5 @@
 # Git (and GitHub) Cheat Sheet
+<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" style="width:100px;"/>
 
 ## Create a New Repo
 To create a new repository on GitHub go to: https://github.com/new
