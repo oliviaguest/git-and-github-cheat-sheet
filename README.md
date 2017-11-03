@@ -4,7 +4,7 @@
 To create a new repository on GitHub go to: https://github.com/new
 
 ## Get Unlimited Private Repositories
-Sign up for the academic/student pack on GitHub as all lab projects should be private and non-academics do not get unlimited free private ones.
+Sign up for the academic/student pack on GitHub as all lab projects should be private (until publication, of course) and non-academics do not get unlimited free private ones.
 Sign up here — they only need your academic (ucl.ac.uk) email address to associate it with your account: https://education.github.com/pack
 
 ## Clone
