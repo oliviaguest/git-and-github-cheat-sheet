@@ -1,5 +1,4 @@
 # Git (and GitHub) Cheat Sheet
-<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" width="300px" style="float:right" />
 
 ## Create a New Repo
 To create a new repository on GitHub go to: https://github.com/new
@@ -81,3 +80,5 @@ If you made some local changes and you do not want them around at all — you ju
 git stash
 ```
 This discards all your local changes that have *not* been ```add```ed or ```commit```ted. 
+
+<img src="https://octodex.github.com/images/femalecodertocat.png" alt="Octocat" width="100px" />
