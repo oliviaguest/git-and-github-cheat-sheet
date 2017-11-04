@@ -19,7 +19,15 @@ So you would need to change directory in order to see your newly downloaded file
 cd gini
 ```
 Then you can ```ls``` and ```ls -a``` to see all your files.
-Feel free to actually ```clone``` my Gini repository as you cannot break it on GitHub since you do not have ```push``` rights. 
+Feel free to actually ```clone``` my Gini repository as you cannot break it on GitHub since you do not have ```push``` rights.
+
+## --recursive
+
+Sometimes a repository will contain links to other repositories. You can fetch the contents of the linked repositories using ```git clone --recursive```:
+```
+git clone --recursive git@github.com:oliviaguest/git-and-github-cheat-sheet
+```
+Now if a linked repository (say, ```gini```) is found within the repo you clone, it too will be retrieved. This situation often happens when people work on large projects that depend on other large projects, so it's good to be aware of it. 
 
 ## Add Files
 Adding a file means asking version control to start watching it, but it is not yet in the history of your repository.
