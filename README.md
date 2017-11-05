@@ -85,10 +85,23 @@ Bear in mind that ```fetch``` *does not download any files*, it merely updates w
 After ```fetch```ing, you may run ```git status``` as then the information on the differences between your local files and those on the server will be correct.
 Otherwise, if you just run ```git status``` you risk getting the wrong information about what is on the server versus your local repo.
 
-## Discard Changes
-If you made some local changes and you do not want them around at all — you just want what is on the server, you can run:
+## Stash Your Changes
+
+Stashing your changes allows you to temporarily get back to the "HEAD" state (the last state from the server).
+A use case might be to see if a bug was previously or if your code introduced it.
 ```
 git stash
+```
+You can then get that changes back with
+```
+git stash pop
+```
+
+## Reset To Master
+
+If you made some local changes and you do not want them around at all — you just want what is on the server, you can run:
+```
+git checkout -- .
 ```
 This discards all your local changes that have *not* been ```add```ed or ```commit```ted.
 
