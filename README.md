@@ -1,6 +1,6 @@
 # Git (and GitHub) Cheat Sheet
 
-I published this as a blog post here: http://neuroplausible.com/github
+**I published this as a blog post here: http://neuroplausible.com/github**
 
 ## Create a New Repo
 To create a new repository on GitHub go to: [https://github.com/new](https://github.com/new)
